@@ -14,3 +14,14 @@ ________________________________________________________________________________
 ## Netlist and Simulation
 <img width="300" height="300" alt="full sub " src="https://github.com/user-attachments/assets/70a44c2f-7bf6-4f56-87b7-4a07df16613d" />        
 <img width="350" height="350" alt="full sub sim" src="https://github.com/user-attachments/assets/0a2058db-89fa-414b-8ddc-1916556f071e" />
+
+__________________________________________________________________________________________________________________________________
+
+
+## 3rd Ripple Carry Adder
+
+# Netlist and Simulation
+<img width="350" height="350" alt="Screenshot 2026-02-14 014755" src="https://github.com/user-attachments/assets/407a62f3-c465-4579-866e-71d2a4e850db" />
+<img width="350" height="350" alt="Screenshot 2026-02-14 014659" src="https://github.com/user-attachments/assets/b6c6878f-d286-4280-96a8-fc107c672bee" />
+
+
