@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 18.01.2026 23:57:26
+// Create Date: 18.02.2026 22:14:27
 // Design Name: 
-// Module Name: sr_latch
+// Module Name: Comparator4_bit
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,12 +20,11 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module sr_latch(
-    input s,
-    input r,
-    output q,
-    output qbar
+module Comparator4_bit(
+    input [3:0] a,
+    input [3:0] b,
+    output a>b,
+    output a<b,
+    output a=b
     );
-    nor (q,r,qbar);
-    nor (qbar,s,q);
 endmodule

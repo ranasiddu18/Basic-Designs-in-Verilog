@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 19.01.2026 00:24:46
+// Create Date: 18.02.2026 22:21:57
 // Design Name: 
-// Module Name: sr_ff
+// Module Name: Comparator4bit
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,26 +20,15 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module sr_ff(
-    input wire s,r,clk,
-    output reg q,qbar
+module Comparator4bit(
+    input [3:0] A,
+    input [3:0] B,
+    output Greater,
+    output Less,
+    output Equal
     );
-    always@(posedge clk)
-    begin
-    if ( s==1 & r ==0)
-    begin
-    q<=1;
-    qbar<=0;
-    end
-    else if (s==0 & r==1)
-      begin
-      q<=0;
-      qbar<=1;
-      end
-    else if ( s==0 & r==0 )
-        begin
-        q<=q;
-        qbar<=qbar;
-        end
-    end
+    
+    assign Greater = A>B;
+    assign Less = A<B;
+    assign Equal = A==B;
 endmodule
