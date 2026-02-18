@@ -48,5 +48,19 @@ ________________________________________________________________________________
 
 
 
+## Comparator 4 bit
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Screenshot 2026-02-18 222618" src="https://github.com/user-attachments/assets/ec0863e6-b371-4da3-9fff-227cee783285" />
+<img width="350" height="350" alt="Screenshot 2026-02-18 224129" src="https://github.com/user-attachments/assets/08830f4c-2aea-46d6-abdd-74fe5f2a21cf" />
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
 
 
