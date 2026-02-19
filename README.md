@@ -58,6 +58,15 @@ ________________________________________________________________________________
 
 
 
+## Decimal to BCD Encoder
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Screenshot 2026-02-19 223957" src="https://github.com/user-attachments/assets/7d390799-0704-4d01-a73c-23f86899f2e2" />
+<img width="350" height="350" alt="Screenshot 2026-02-19 225514" src="https://github.com/user-attachments/assets/eedc0cfe-0865-481f-9428-162dbd21c930" />
+
+______________________________________________________________________________________________________________________________
+
+
 
 
 
