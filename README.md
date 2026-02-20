@@ -68,6 +68,18 @@ ________________________________________________________________________________
 
 
 
+## Binary to Gray Converter
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Screenshot 2026-02-20 205911" src="https://github.com/user-attachments/assets/25149768-4385-4fa9-bc4b-ead86d2d6c43" />
+<img width="350" height="350" alt="Screenshot 2026-02-20 210252" src="https://github.com/user-attachments/assets/9faafccc-aed7-4e3a-b6cb-1df501698b89" />
+
+________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
 
 
 
