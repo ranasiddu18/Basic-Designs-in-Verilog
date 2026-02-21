@@ -84,7 +84,33 @@ ________________________________________________________________________________
 <img width="350" height="350" alt="Screenshot 2026-02-21 212456" src="https://github.com/user-attachments/assets/de9f2bd3-c120-421c-a08f-bd6952406f6c" />
 <img width="350" height="350" alt="Screenshot 2026-02-21 212939" src="https://github.com/user-attachments/assets/2ea5ad97-424e-47ca-bbd8-cc72bbc713c4" />
 
-________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
+
+
+
+## Even Parity Generator
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Even" src="https://github.com/user-attachments/assets/e6ebd2c1-ddad-4cdf-8c0a-f32754836740" />
+<img width="350" height="350" alt="Even Sim" src="https://github.com/user-attachments/assets/28acb058-27ee-4882-8af2-6b2408378f97" />
+
+_____________________________________________________________________________________________________________________________________________
+
+
+
+## Odd Parity Generator 
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Odd" src="https://github.com/user-attachments/assets/6d1f8043-8d99-4069-b39e-0cbb19202573" />
+<img width="350" height="350" alt="Odd sim" src="https://github.com/user-attachments/assets/b7e4c0dd-41d9-4df7-bab1-b888c73b8d40" />
+
+_______________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
 
 
 
