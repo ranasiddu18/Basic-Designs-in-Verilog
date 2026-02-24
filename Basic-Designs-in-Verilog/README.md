@@ -108,6 +108,18 @@ ________________________________________________________________________________
 
 
 
+## Seven Segment Display
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Screenshot 2026-02-24 104744" src="https://github.com/user-attachments/assets/37413aa0-7400-4dde-a31a-33d78eec0f84" />
+<img width="350" height="350" alt="Screenshot 2026-02-24 105943" src="https://github.com/user-attachments/assets/bb5d2de4-cbe9-46fb-aca6-69516bc7ab22" />
+
+______________________________________________________________________________________________________________________________________
+
+
+
+
+
 
 
 
