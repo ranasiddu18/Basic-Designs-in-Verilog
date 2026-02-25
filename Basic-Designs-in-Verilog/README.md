@@ -118,6 +118,15 @@ ________________________________________________________________________________
 
 
 
+## Carry Look ahead Adder
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Screenshot 2026-02-25 172016" src="https://github.com/user-attachments/assets/3237fc30-31a7-447f-9212-cca8bf2fb2ca" />
+<img width="350" height="350" alt="Screenshot 2026-02-25 173904" src="https://github.com/user-attachments/assets/a8be3a3a-ca7b-42b7-a2ec-0736eafd1d19" />
+
+_____________________________________________________________________________________________________________________________
+
+
 
 
 
