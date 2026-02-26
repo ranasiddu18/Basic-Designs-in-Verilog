@@ -128,6 +128,16 @@ ________________________________________________________________________________
 
 
 
+## BCD Adder
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Screenshot 2026-02-26 110913" src="https://github.com/user-attachments/assets/e7e050d5-8b9e-4b20-b72d-1a7b9cd76e84" />
+<img width="350" height="350" alt="Screenshot 2026-02-26 111227" src="https://github.com/user-attachments/assets/f69b6d5b-e5f1-4e12-9ccf-6aa35539b17f" />
+
+_____________________________________________________________________________________________________________________________
+
+
+
 
 
 
