@@ -1,6 +1,6 @@
 # Basic-Designs-in-Verilog
 
-## 1st Half Subtracter 
+## Half Subtracter 
 
 ## Elaborated design and Simulation
 <img width="300" height="300" alt="half subtracter" src="https://github.com/user-attachments/assets/434c9bd2-0eee-4392-a54d-e32101f739a2" /> 
@@ -9,7 +9,7 @@
 ________________________________________________________________________________________________________________________________
 
 
-## 2nd Full Subtracter
+## Full Subtracter
 
 ## Elaborated design and Simulation
 <img width="300" height="300" alt="full sub " src="https://github.com/user-attachments/assets/70a44c2f-7bf6-4f56-87b7-4a07df16613d" />        
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________
 
 
-## 3rd Ripple Carry Adder
+## Ripple Carry Adder
 
 ## Elaborated design  and Simulation
 <img width="350" height="350" alt="Screenshot 2026-02-14 014755" src="https://github.com/user-attachments/assets/407a62f3-c465-4579-866e-71d2a4e850db" />
@@ -137,6 +137,14 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________
 
 
+
+## BCD to Excess3 
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Screenshot 2026-02-27 104310" src="https://github.com/user-attachments/assets/72385993-d872-46b6-87a0-1dc5161bbcd0" />
+<img width="350" height="350" alt="Screenshot 2026-02-27 104955" src="https://github.com/user-attachments/assets/bab2f227-5dbd-4faa-9182-143307ee93b3" />
+
+_____________________________________________________________________________________________________________________________
 
 
 
