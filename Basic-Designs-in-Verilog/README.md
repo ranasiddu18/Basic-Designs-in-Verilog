@@ -148,6 +148,18 @@ ________________________________________________________________________________
 
 
 
+## Carry Save Adder
+
+A Carry Save Adder (CSA) is a type of digital logic circuit used to compute the sum of three or more n-bit binary numbers.
+
+Instead of propagating the carry bit horizontally to the next most significant bit (which creates a massive time delay), a CSA calculates a partial sum and a "saved" carry independently for every single bit position.
+
+## Elaborated design and Simulation
+
+<img width="350" height="350" alt="Screenshot 2026-02-28 152055" src="https://github.com/user-attachments/assets/35fb1954-6365-42b0-b82f-9dd2f48b9bea" />
+<img width="350" height="350" alt="Screenshot 2026-02-28 152303" src="https://github.com/user-attachments/assets/82936836-0c74-49f1-9384-2b025a669c5c" />
+
+_____________________________________________________________________________________________________________________________
 
 
 
