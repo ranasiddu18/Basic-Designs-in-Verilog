@@ -163,6 +163,13 @@ ________________________________________________________________________________
 
 
 
+## Square of 3 bit Number
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Screenshot 2026-03-01 165757" src="https://github.com/user-attachments/assets/6b2560a8-2040-46f0-833a-6b7e74443192" />
+<img width="350" height="350" alt="Screenshot 2026-03-01 170318" src="https://github.com/user-attachments/assets/a70a4865-8527-4c06-b89b-1854fb80fc19" />
+
+_____________________________________________________________________________________________________________________________
 
 
 
