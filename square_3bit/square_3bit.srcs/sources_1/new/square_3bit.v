@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 04.02.2026 01:56:38
+// Create Date: 01.03.2026 16:53:49
 // Design Name: 
-// Module Name: multiply_tb
+// Module Name: square_3bit
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,18 +20,14 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module multiply_tb();
-    reg [2:0] d;
-    wire [3:0] p;
-
-    multiply uut (.d(d), .p(p));
-
-    initial begin
-        d = 0;
-        repeat(8) begin
-            #10 $display("d=%b (%d), p=%b (%d)", d, d, p, p);
-            d = d + 1;
-        end
-        #10 $finish;
-    end
+module square_3bit(
+input  wire [2:0] A,
+    output wire [5:0] S
+    );
+    assign S[0] = A[0];
+    assign S[1] = 1'b0;
+    assign S[2] = A[1] & ~A[0];
+    assign S[3] = (A[2] ^ A[1]) & A[0];
+    assign S[4] = A[2] & ~A[1];
+    assign S[5] = A[2] & A[1];
 endmodule

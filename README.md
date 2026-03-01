@@ -1,6 +1,6 @@
 # Basic-Designs-in-Verilog
 
-## 1st Half Subtracter 
+## Half Subtracter 
 
 ## Elaborated design and Simulation
 <img width="300" height="300" alt="half subtracter" src="https://github.com/user-attachments/assets/434c9bd2-0eee-4392-a54d-e32101f739a2" /> 
@@ -9,7 +9,7 @@
 ________________________________________________________________________________________________________________________________
 
 
-## 2nd Full Subtracter
+## Full Subtracter
 
 ## Elaborated design and Simulation
 <img width="300" height="300" alt="full sub " src="https://github.com/user-attachments/assets/70a44c2f-7bf6-4f56-87b7-4a07df16613d" />        
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________
 
 
-## 3rd Ripple Carry Adder
+## Ripple Carry Adder
 
 ## Elaborated design  and Simulation
 <img width="350" height="350" alt="Screenshot 2026-02-14 014755" src="https://github.com/user-attachments/assets/407a62f3-c465-4579-866e-71d2a4e850db" />
@@ -108,7 +108,58 @@ ________________________________________________________________________________
 
 
 
+## Seven Segment Display
 
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Screenshot 2026-02-24 104744" src="https://github.com/user-attachments/assets/37413aa0-7400-4dde-a31a-33d78eec0f84" />
+<img width="350" height="350" alt="Screenshot 2026-02-24 105943" src="https://github.com/user-attachments/assets/bb5d2de4-cbe9-46fb-aca6-69516bc7ab22" />
+
+______________________________________________________________________________________________________________________________________
+
+
+
+## Carry Look ahead Adder
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Screenshot 2026-02-25 172016" src="https://github.com/user-attachments/assets/3237fc30-31a7-447f-9212-cca8bf2fb2ca" />
+<img width="350" height="350" alt="Screenshot 2026-02-25 173904" src="https://github.com/user-attachments/assets/a8be3a3a-ca7b-42b7-a2ec-0736eafd1d19" />
+
+_____________________________________________________________________________________________________________________________
+
+
+
+## BCD Adder
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Screenshot 2026-02-26 110913" src="https://github.com/user-attachments/assets/e7e050d5-8b9e-4b20-b72d-1a7b9cd76e84" />
+<img width="350" height="350" alt="Screenshot 2026-02-26 111227" src="https://github.com/user-attachments/assets/f69b6d5b-e5f1-4e12-9ccf-6aa35539b17f" />
+
+_____________________________________________________________________________________________________________________________
+
+
+
+## BCD to Excess3 
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Screenshot 2026-02-27 104310" src="https://github.com/user-attachments/assets/72385993-d872-46b6-87a0-1dc5161bbcd0" />
+<img width="350" height="350" alt="Screenshot 2026-02-27 104955" src="https://github.com/user-attachments/assets/bab2f227-5dbd-4faa-9182-143307ee93b3" />
+
+_____________________________________________________________________________________________________________________________
+
+
+
+## Carry Save Adder
+
+A Carry Save Adder (CSA) is a type of digital logic circuit used to compute the sum of three or more n-bit binary numbers.
+
+Instead of propagating the carry bit horizontally to the next most significant bit (which creates a massive time delay), a CSA calculates a partial sum and a "saved" carry independently for every single bit position.
+
+## Elaborated design and Simulation
+
+<img width="350" height="350" alt="Screenshot 2026-02-28 152055" src="https://github.com/user-attachments/assets/35fb1954-6365-42b0-b82f-9dd2f48b9bea" />
+<img width="350" height="350" alt="Screenshot 2026-02-28 152303" src="https://github.com/user-attachments/assets/82936836-0c74-49f1-9384-2b025a669c5c" />
+
+_____________________________________________________________________________________________________________________________
 
 
 
