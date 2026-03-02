@@ -173,6 +173,15 @@ ________________________________________________________________________________
 
 
 
+## Tristate Buffer
+
+Tri-state buffer is a digital circuit that has three stable output states: logic high (1), logic low (0), and high-impedance (Hi-Z).  Unlike a standard buffer that only outputs 0 or 1, a tri-state buffer includes an enable (or control) input that determines its output state.  When the enable signal is active (typically high), the buffer passes the input signal to the output. When the enable signal is inactive (low), the output enters the high-impedance state, effectively disconnecting it from the circuit. 
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Screenshot 2026-03-02 184420" src="https://github.com/user-attachments/assets/dfd364be-f75e-42c5-8c04-d847190faaa2" />
+<img width="350" height="350" alt="Screenshot 2026-03-02 184559" src="https://github.com/user-attachments/assets/6d0a1209-e5c0-4672-9482-683ccb769109" />
+
+_____________________________________________________________________________________________________________________________
 
 
 
