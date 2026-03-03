@@ -185,6 +185,14 @@ ________________________________________________________________________________
 
 
 
+## RS Latch using Nor gates
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Screenshot 2026-03-03 190918" src="https://github.com/user-attachments/assets/f81fcf2f-664b-4037-bdb2-7fce8071b75e" />
+<img width="350" height="350" alt="Screenshot 2026-03-03 192054" src="https://github.com/user-attachments/assets/f371a95e-4c5a-42e4-8e62-34616a294b2f" />
+
+_____________________________________________________________________________________________________________________________
+
 
 
 
