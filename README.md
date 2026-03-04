@@ -195,5 +195,13 @@ ________________________________________________________________________________
 
 
 
+## RS Latch using NAND gates 
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Screenshot 2026-03-04 191142" src="https://github.com/user-attachments/assets/24662c48-ec4b-4251-90f5-dde072a01033" />
+<img width="350" height="350" alt="Screenshot 2026-03-04 191900" src="https://github.com/user-attachments/assets/121e54e2-ef34-4504-b7b9-f803bae73f60" />
+
+_____________________________________________________________________________________________________________________________
+
 
 
