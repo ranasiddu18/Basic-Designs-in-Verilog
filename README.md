@@ -205,3 +205,12 @@ ________________________________________________________________________________
 
 
 
+## Sequence detector using mealy FSM
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/a94e0935-bdf2-4148-a0f9-a7231f321bcb" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/67bfb18c-b9a4-4ff6-b287-446ffefbd8b8" />
+
+_____________________________________________________________________________________________________________________________
+
+
