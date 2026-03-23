@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
- module seq_det_mealy ( clk,rst, in,out);
+ module seq_det_mealy ( clk,rst, in,out); // sequence detection of 1001
 input clk,rst, in;
 output reg out;
 reg [1:0] state, next_st;
