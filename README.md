@@ -231,3 +231,5 @@ Asingle-port RAM hasonly one dataport, which means that read and write operation
 cannot occur simultaneously at different addresses. If a write operation is in progress, a
 read operation must wait, and vice versa.
 
+_____________________________________________________________________________________________________________________________
+
