@@ -214,3 +214,20 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________
 
 
+
+## Single Port Sync Ram
+
+## What is a single port ram?
+A single-port RAM (Random AccessMemory) is a type of digital memory component that
+allows data to be read from and written to a single memory location (address) at a time. It is
+a simple form of memory that provides a basic storage mechanism for digital systems. Each
+memory location in a single-port RAM can store a fixed number of bits (usually a power of
+2, such as 8, 16, 32, etc.).
+During a read operation, the data stored at a specific address is retrieved. During a write
+operation, new data is stored at a specific address, replacing the previous data.
+
+## Why is it called single port ?
+Asingle-port RAM hasonly one dataport, which means that read and write operations
+cannot occur simultaneously at different addresses. If a write operation is in progress, a
+read operation must wait, and vice versa.
+
