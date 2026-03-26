@@ -1,4 +1,4 @@
-## Basic-Designs-in-Verilog
+## Basic-Designs-in-VERILOG
 
 ## Half Subtracter 
 
