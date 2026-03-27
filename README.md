@@ -6,7 +6,7 @@
 <img width="300" height="300" alt="half subtracter" src="https://github.com/user-attachments/assets/434c9bd2-0eee-4392-a54d-e32101f739a2" /> 
 <img width="350" height="350" alt="Half sub Simulation" src="https://github.com/user-attachments/assets/d27075ea-b84e-4ff6-a70f-bfc4eb3511c9" />
 
-______________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________
 
 
 ## Full Subtracter
