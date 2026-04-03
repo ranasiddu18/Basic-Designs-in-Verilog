@@ -250,3 +250,11 @@ Key Hardware Features:
 
 **Automated Verification:** Includes a self-checking loopback testbench that automatically validates transmitted versus received payloads at simulated multi-megabit speeds.
 
+## Elaborated Board design
+<img width="350" height="350" alt="Screenshot 2026-04-03 110144" src="https://github.com/user-attachments/assets/aaacb537-da63-48b1-8b4c-ac119772365b" />
+
+## Simulation
+<img width="350" height="350" alt="Screenshot 2026-04-03 110551" src="https://github.com/user-attachments/assets/4d7fc039-bda2-4a6c-90b4-1b621688bc6f" />
+
+_____________________________________________________________________________________________________________________________
+
