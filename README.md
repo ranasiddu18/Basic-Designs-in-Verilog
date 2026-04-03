@@ -233,3 +233,20 @@ read operation must wait, and vice versa.
 
 _____________________________________________________________________________________________________________________________
 
+
+## Full Duplex UART Transceiver
+
+This project implements a fully parameterized UART transceiver in Verilog, designed for robust asynchronous serial communication in FPGA environments. Rather than relying on simple ideal-case simulations, the architecture is engineered to handle real-world physical constraints, including clock domain crossing and asynchronous noise.
+
+Key Hardware Features:
+
+**Parameterized Architecture:** Configurable system clock frequency and target baud rate via Verilog parameters.
+
+**Metastability Protection:** Implements double-flop synchronizers on the asynchronous RX input pin to prevent setup/hold violations.
+
+**16x Oversampling Receiver:** Utilizes a high-frequency tick generator to sample incoming data at the precise center of the bit period, rejecting transient noise spikes on the Start bit.
+
+**Synchronous Design:** Entire system operates strictly on the primary FPGA clock network, utilizing clock-enables (ticks) rather than derived logic-clocks to prevent routing skew.
+
+**Automated Verification:** Includes a self-checking loopback testbench that automatically validates transmitted versus received payloads at simulated multi-megabit speeds.
+
