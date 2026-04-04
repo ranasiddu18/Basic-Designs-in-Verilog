@@ -231,7 +231,12 @@ Asingle-port RAM hasonly one dataport, which means that read and write operation
 cannot occur simultaneously at different addresses. If a write operation is in progress, a
 read operation must wait, and vice versa.
 
-_____________________________________________________________________________________________________________________________
+
+## Elaborated design and Simulation
+<img width="350" height="350" alt="Screenshot 2026-04-04 212919" src="https://github.com/user-attachments/assets/a0bf83ed-8f08-4e32-bbde-05c706a50069" />
+<img width="350" height="350" alt="Screenshot 2026-04-04 213040" src="https://github.com/user-attachments/assets/345dcdcb-786e-4425-9fda-bf84f3096899" />
+
+_______________________________________________________________________________________________________________
 
 
 ## Full Duplex UART Transceiver
