@@ -3,8 +3,7 @@
 ## Half Subtracter 
 
 ## Elaborated design and Simulation
-<img width="300" height="300" alt="half subtracter" src="https://github.com/user-attachments/assets/434c9bd2-0eee-4392-a54d-e32101f739a2" /> 
-<img width="350" height="350" alt="Half sub Simulation" src="https://github.com/user-attachments/assets/d27075ea-b84e-4ff6-a70f-bfc4eb3511c9" />
+<img width="300" height="300" alt="half subtracter" src="https://github.com/user-attachments/assets/434c9bd2-0eee-4392-a54d-e32101f739a2" /> <img width="350" height="350" alt="Half sub Simulation" src="https://github.com/user-attachments/assets/d27075ea-b84e-4ff6-a70f-bfc4eb3511c9" />
 
 __________________________________________________________________________________________________________________________
 
@@ -12,8 +11,7 @@ ________________________________________________________________________________
 ## Full Subtracter
 
 ## Elaborated design and Simulation
-<img width="300" height="300" alt="full sub " src="https://github.com/user-attachments/assets/70a44c2f-7bf6-4f56-87b7-4a07df16613d" />        
-<img width="350" height="350" alt="full sub sim" src="https://github.com/user-attachments/assets/0a2058db-89fa-414b-8ddc-1916556f071e" />
+<img width="300" height="300" alt="full sub " src="https://github.com/user-attachments/assets/70a44c2f-7bf6-4f56-87b7-4a07df16613d" />        <img width="350" height="350" alt="full sub sim" src="https://github.com/user-attachments/assets/0a2058db-89fa-414b-8ddc-1916556f071e" />
 
 ____________________________________________________________________________________________________________________________
 
@@ -21,8 +19,7 @@ ________________________________________________________________________________
 ## Ripple Carry Adder
 
 ## Elaborated design  and Simulation
-<img width="350" height="350" alt="Screenshot 2026-02-14 014755" src="https://github.com/user-attachments/assets/407a62f3-c465-4579-866e-71d2a4e850db" />
-<img width="350" height="350" alt="Screenshot 2026-02-14 014659" src="https://github.com/user-attachments/assets/b6c6878f-d286-4280-96a8-fc107c672bee" />
+<img width="350" height="350" alt="Screenshot 2026-02-14 014755" src="https://github.com/user-attachments/assets/407a62f3-c465-4579-866e-71d2a4e850db" /><img width="350" height="350" alt="Screenshot 2026-02-14 014659" src="https://github.com/user-attachments/assets/b6c6878f-d286-4280-96a8-fc107c672bee" />
 
 ________________________________________________________________________________________________________________________________
 
